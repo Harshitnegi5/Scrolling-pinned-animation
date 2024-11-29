@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 Demo  
-[Scrolling Animation Preview](https://via.placeholder.com/800x400?text=Add+Your+GIF+Preview+Here)  
+[Scrolling Animation Preview](https://scrolling-pinned-animation.vercel.app/)  
 *An example of the pinned scrolling animation.*
 
 ---
